@@ -2,7 +2,7 @@
 <h2> About me <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xhcGt6MDRxMTdrbzVlZjg4a25obGlpZGRheHRsazE2anphb2R2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1MszWr0QgBPdS/giphy.gif" width="50"></h2>
 <p>Software Engineer specializing in Web Development, Software Infrastructures and Programming Languages: </p>
 
-
+```
 const Amrutya = {
   pronouns: "he" | "him",  // Note: This is a TypeScript union type. In plain JS, use a string or array.
   code: ["Javascript", "HTML", "CSS", "Java"],
@@ -14,6 +14,7 @@ const Amrutya = {
     fullTime: ["learning tech", "news", "socializing"]
   }
 };
+```
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
