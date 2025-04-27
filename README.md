@@ -4,13 +4,13 @@
 
 ```javascript
 const Amrutya = {
-  pronouns: "he" | "him",  // Note: This is a TypeScript union type. In plain JS, use a string or array.
+  pronouns: "he" | "him", 
   code: ["Javascript", "HTML", "CSS", "Java"],
   libraries: ["Angular", "Typescript", "Vue", "React"],
   devops_cloud: ["AWS", "Azure", "Docker", "JUnit", "Jenkins", "Maven"],
   challenges: "I wake up to a new challenge everyday (no kidding)",
   hobbies: {
-    partTime: ["gaming", "Valorant", "CS(toString(2.0))"],
+    partTime: ["gaming", "Valorant", "CSGO"],
     fullTime: ["learning tech", "news", "socializing"]
   }
 };
