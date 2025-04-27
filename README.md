@@ -44,13 +44,12 @@ const Amrutya = {
 
 
 ## Github Stats
-
 <div align = "center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amrutyajirobe&show_icons=true&locale=en" alt="amrutyajirobe" height="150" /></p>
 </div>
 <div align = "center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrutyajirobe&show_icons=true&locale=en&layout=compact" alt="amrutyajirobe" height="150"/></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrutyajirobe&" alt="amrutyajirobe" height="150"/></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amrutyajirobe&" alt="amrutyajirobe" height="150"/></p>
 </div>
 
 ## Socials 
