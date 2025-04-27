@@ -1,5 +1,4 @@
-<h1>Hi, I'm Amrutya Jirobe</h1>
-<h2> About me <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVhZjc2M24wMWl4dzl2MmNnNXNmeXlnd3RsamI5OThnZjVvb3o1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsE65jaPsUKUo/giphy.gif" width="80"></h2>
+<h1> About me <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVhZjc2M24wMWl4dzl2MmNnNXNmeXlnd3RsamI5OThnZjVvb3o1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsE65jaPsUKUo/giphy.gif" width="80"></h1>
 <p>Software Engineer specializing in Web Development, Software Infrastructures and Programming Languages: </p>
 
 ```javascript
