@@ -4,15 +4,19 @@
 
 
 ```javascript
-const Samhitha = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python, Java],
-  libraries: [Pandas, Keras, Pytorch],
+const Amrutya = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Javascript, Java],
+  libaries : [Angular, Typescript, Vue, React]
+  devops-cloud : [AWS, Azure, Docker, JUnit, Jenkins, Maven]
   tech communities: {
                     
 
                     },
-  challenges: "I have taken up CodaLab challenges"
+  challenges: "I wakeup to a new challenge everyday(no kidding)"
+let hobbies :{
+    part-time : gaming Valorant, CSGOv2.0
+    full-time : learning new tech, news, and soclializing
 }
 ```
 
