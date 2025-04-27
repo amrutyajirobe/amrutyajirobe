@@ -1,5 +1,21 @@
 <h1>Hi, I'm Amrutya Jirobe</h1>
-<p>Software Engineer specializing in Web Development, Software Infrastructures and Programming Languages</p>
+<h2> About me <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xhcGt6MDRxMTdrbzVlZjg4a25obGlpZGRheHRsazE2anphb2R2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1MszWr0QgBPdS/giphy.gif" width="50"></h2>
+<p>Software Engineer specializing in Web Development, Software Infrastructures and Programming Languages: </p>
+
+
+```javascript
+const Samhitha = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Python, Java],
+  libraries: [Pandas, Keras, Pytorch],
+  tech communities: {
+                    
+
+                    },
+  challenges: "I have taken up CodaLab challenges"
+}
+```
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -33,3 +49,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amrutyajirobe&show_icons=true&locale=en" alt="amrutyajirobe" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrutyajirobe&" alt="amrutyajirobe" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrutyajirobe&show_icons=true&locale=en&layout=compact" alt="amrutyajirobe" /></p>
+
+
+## Socials 
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajirobe84@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amrutya-jirobe) 
