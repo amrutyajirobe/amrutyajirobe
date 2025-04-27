@@ -1,5 +1,5 @@
 <h1>Hi, I'm Amrutya Jirobe</h1>
-<h2> About me <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xhcGt6MDRxMTdrbzVlZjg4a25obGlpZGRheHRsazE2anphb2R2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1MszWr0QgBPdS/giphy.gif" width="50"></h2>
+<h2> About me <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVhZjc2M24wMWl4dzl2MmNnNXNmeXlnd3RsamI5OThnZjVvb3o1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsE65jaPsUKUo/giphy.gif" width="80"></h2>
 <p>Software Engineer specializing in Web Development, Software Infrastructures and Programming Languages: </p>
 
 ```javascript
@@ -57,5 +57,6 @@ const Amrutya = {
 ## Socials 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajirobe84@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amrutya-jirobe-182968182/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/Santiyago/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/Santiyago/)
+
 
