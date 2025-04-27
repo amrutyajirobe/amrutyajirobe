@@ -48,8 +48,6 @@ const Amrutya = {
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrutyajirobe&" alt="amrutyajirobe" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrutyajirobe&show_icons=true&locale=en&layout=compact" alt="amrutyajirobe" /></p>
 
-
-<h2>⚡️ Where to find me</h2>
+## Socials 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajirobe84@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amrutya-jirobe-182968182/) 
-<p><a target="_blank" href="https://twitter.com/regardless_aj" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
