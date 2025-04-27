@@ -3,18 +3,17 @@
 <p>Software Engineer specializing in Web Development, Software Infrastructures and Programming Languages: </p>
 
 
-```javascript
 const Amrutya = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Javascript, Java],
-  libaries : [Angular, Typescript, Vue, React]
-  devops-cloud : [AWS, Azure, Docker, JUnit, Jenkins, Maven]
-  challenges: "I wakeup to a new challenge everyday(no kidding)"
-let hobbies :{
-    part-time : gaming Valorant, CSGO\v2.0
-    full-time : learning tech, news, and soclializing
-}
-```
+  pronouns: "he" | "him",  // Note: This is a TypeScript union type. In plain JS, use a string or array.
+  code: ["Javascript", "HTML", "CSS", "Java"],
+  libraries: ["Angular", "Typescript", "Vue", "React"],
+  devops_cloud: ["AWS", "Azure", "Docker", "JUnit", "Jenkins", "Maven"],
+  challenges: "I wake up to a new challenge everyday (no kidding)",
+  hobbies: {
+    partTime: ["gaming", "Valorant", "CSGO\\v2.0"],
+    fullTime: ["learning tech", "news", "socializing"]
+  }
+};
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
