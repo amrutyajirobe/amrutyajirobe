@@ -9,14 +9,10 @@ const Amrutya = {
   code: [Javascript, HTML, CSS, Javascript, Java],
   libaries : [Angular, Typescript, Vue, React]
   devops-cloud : [AWS, Azure, Docker, JUnit, Jenkins, Maven]
-  tech communities: {
-                    
-
-                    },
   challenges: "I wakeup to a new challenge everyday(no kidding)"
 let hobbies :{
-    part-time : gaming Valorant, CSGOv2.0
-    full-time : learning new tech, news, and soclializing
+    part-time : gaming Valorant, CSGO\v2.0
+    full-time : learning tech, news, and soclializing
 }
 ```
 
