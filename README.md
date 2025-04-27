@@ -10,7 +10,7 @@ const Amrutya = {
   devops_cloud: ["AWS", "Azure", "Docker", "JUnit", "Jenkins", "Maven"],
   challenges: "I wake up to a new challenge everyday (no kidding)",
   hobbies: {
-    partTime: ["gaming", "Valorant", "CSGO\\v2.0"],
+    partTime: ["gaming", "Valorant", "CS(toString(2.0))"],
     fullTime: ["learning tech", "news", "socializing"]
   }
 };
@@ -44,9 +44,15 @@ const Amrutya = {
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amrutyajirobe&show_icons=true&locale=en" alt="amrutyajirobe" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrutyajirobe&" alt="amrutyajirobe" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrutyajirobe&show_icons=true&locale=en&layout=compact" alt="amrutyajirobe" /></p>
+## Github Stats
+
+<div align = "center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amrutyajirobe&show_icons=true&locale=en" alt="amrutyajirobe" height="150" /></p>
+</div>
+<div align = "center">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrutyajirobe&show_icons=true&locale=en&layout=compact" alt="amrutyajirobe" height="150"/></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrutyajirobe&" alt="amrutyajirobe" height="150"/></p>
+</div>
 
 ## Socials 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajirobe84@gmail.com)
