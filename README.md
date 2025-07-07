@@ -4,8 +4,8 @@
 ```javascript
 const Amrutya = {
   pronouns: "he" | "him", 
-  code: ["Javascript", "HTML", "CSS", "Java"],
-  libraries: ["Angular", "Typescript", "Vue", "React"],
+  code: ["Javascript", "HTML", "CSS", "Java", "Python"],
+  libraries: ["Angular", "Typescript", "Vue", "React", "Pandas", "Matplotlib"],
   devops_cloud: ["AWS", "Azure", "Docker", "JUnit", "Jenkins", "Maven"],
   challenges: "I wake up to a new challenge everyday (no kidding)",
   hobbies: {
